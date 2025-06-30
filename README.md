@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project implements machine learning models to classify emails as either **spam** (unsolicited bulk emails) or **ham** (legitimate emails). Using datasets containing easy ham, hard ham, and spam emails, we compare the performance of two popular Naive Bayes classifiers — Multinomial and Bernoulli — to evaluate their effectiveness in email classification.
+This project implements machine learning models to classify emails as either **spam** (unsolicited bulk emails) or **ham** (legitimate emails). Using datasets containing easy ham, hard ham, and spam emails, we compare the performance of two popular Naive Bayes classifiers Multinomial and Bernoulli  to evaluate their effectiveness in email classification.
 
 ## Dataset
 
